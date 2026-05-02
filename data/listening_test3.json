@@ -1,0 +1,603 @@
+{
+  "testId": "listening_test3",
+  "title": "TOEFL Listening Practice — Test 3",
+  "audioNote": "Audio will play only once.",
+  "modules": [
+    {
+      "title": "Module 1",
+      "difficulty": "Baseline slightly above average",
+      "items": [
+        {
+          "kind": "response",
+          "number": 1,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m1_resp_q1.mp3",
+          "choices": [
+            "The exhibit opens on Saturday.",
+            "I borrowed the map from the desk.",
+            "Yes, it's meeting in the arts annex this week.",
+            "No, the reading packet is online."
+          ],
+          "answerIndex": 2,
+          "explanation": "The response directly answers the location question."
+        },
+        {
+          "kind": "response",
+          "number": 2,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m1_resp_q2.mp3",
+          "choices": [
+            "The sustainability club is hosting a repair event.",
+            "That path leads to the dormitory.",
+            "I locked mine near the fountain.",
+            "The library closes later during finals."
+          ],
+          "answerIndex": 0,
+          "explanation": "A special event best explains the unusual number of bicycles."
+        },
+        {
+          "kind": "response",
+          "number": 3,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m1_resp_q3.mp3",
+          "choices": [
+            "The lecture was posted as a podcast.",
+            "I printed the article already.",
+            "Seats in that room are uncomfortable.",
+            "Of course—text me when you're near the hall."
+          ],
+          "answerIndex": 3,
+          "explanation": "The reply accepts the request and asks for a practical follow-up."
+        },
+        {
+          "kind": "response",
+          "number": 4,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m1_resp_q4.mp3",
+          "choices": [
+            "The telescope needs a new lens.",
+            "They changed it to an afternoon practice session.",
+            "No, the weather report looks good.",
+            "I left my notebook in the lab."
+          ],
+          "answerIndex": 1,
+          "explanation": "This corrects the mistaken schedule assumption."
+        },
+        {
+          "kind": "response",
+          "number": 5,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m1_resp_q5.mp3",
+          "choices": [
+            "Put them in the mailbox outside the service office.",
+            "The office opens at ten on Fridays.",
+            "I completed twelve hours last month.",
+            "Those forms need a blue signature line."
+          ],
+          "answerIndex": 0,
+          "explanation": "A location answer fits the question about where to submit a form."
+        },
+        {
+          "kind": "response",
+          "number": 6,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m1_resp_q6.mp3",
+          "choices": [
+            "The chart uses two colors.",
+            "I uploaded the spreadsheet yesterday.",
+            "Then we should revise the conclusion before the meeting.",
+            "Our group meets in room 214."
+          ],
+          "answerIndex": 2,
+          "explanation": "The response addresses the doubt and suggests an action."
+        },
+        {
+          "kind": "response",
+          "number": 7,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m1_resp_q7.mp3",
+          "choices": [
+            "The tutor arrived early today.",
+            "It stays open until nine during exam week.",
+            "I practiced there after lunch.",
+            "The headphones are in the cabinet."
+          ],
+          "answerIndex": 1,
+          "explanation": "A closing-time question needs a time-based response."
+        },
+        {
+          "kind": "response",
+          "number": 8,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m1_resp_q8.mp3",
+          "choices": [
+            "The concert posters look great.",
+            "I bought my ticket online.",
+            "That band plays jazz and folk music.",
+            "Then let's wait in the student union for updates."
+          ],
+          "answerIndex": 3,
+          "explanation": "The answer reacts naturally to the possibility of a delay."
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 9,
+          "numberEnd": 10,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t3/t3_m1_conv_s1.mp3",
+          "questions": [
+            {
+              "number": 9,
+              "question": "What did the editor ask the woman to do?",
+              "choices": [
+                "Add more statistics to the article.",
+                "Limit her story to a narrower area.",
+                "Interview more students on campus.",
+                "Submit the first draft earlier."
+              ],
+              "answerIndex": 1,
+              "explanation": "The editor liked the idea but asked her to focus on one neighborhood rather than the whole city."
+            },
+            {
+              "number": 10,
+              "question": "What will the woman probably do next?",
+              "choices": [
+                "Cancel the story idea entirely.",
+                "Send the editor her current interviews.",
+                "Write the final draft immediately.",
+                "Revise her outline before conducting more interviews."
+              ],
+              "answerIndex": 3,
+              "explanation": "She says the first thing she needs to do is rewrite the outline."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 11,
+          "numberEnd": 12,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t3/t3_m1_conv_s2.mp3",
+          "questions": [
+            {
+              "number": 11,
+              "question": "Why is the man uncertain about taking the workshop?",
+              "choices": [
+                "He thinks the course is already full.",
+                "He has never used a pottery wheel.",
+                "The supply fee seems expensive.",
+                "He cannot attend the evening sessions."
+              ],
+              "answerIndex": 2,
+              "explanation": "He says the supply fee is higher than he expected."
+            },
+            {
+              "number": 12,
+              "question": "What does the woman imply about the studio-class scholarships?",
+              "choices": [
+                "They may be available to non-majors.",
+                "They require a biology recommendation.",
+                "They are awarded only after a course ends.",
+                "They can be used only for advanced classes."
+              ],
+              "answerIndex": 0,
+              "explanation": "She gives the example of her biology-major roommate receiving one."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "announcement",
+          "numberStart": 13,
+          "numberEnd": 14,
+          "instruction": "Listen to an announcement.",
+          "visual": "announcement_campus",
+          "audio": "audio/t3/t3_m1_ann_s1.mp3",
+          "questions": [
+            {
+              "number": 13,
+              "question": "What is the main purpose of the announcement?",
+              "choices": [
+                "To invite students to a museum exhibit.",
+                "To announce the permanent closure of the archives.",
+                "To recruit volunteers for renovation work.",
+                "To describe new access procedures after the archives reading room reopens."
+              ],
+              "answerIndex": 3,
+              "explanation": "The speaker explains when the room reopens and what procedures will apply afterward."
+            },
+            {
+              "number": 14,
+              "question": "Why are researchers asked to arrive early?",
+              "choices": [
+                "They need to help organize the shelves.",
+                "They must hear revised instructions for handling materials.",
+                "They must request all documents in person.",
+                "They will be assigned new appointment times."
+              ],
+              "answerIndex": 1,
+              "explanation": "The announcement says staff will review updated handling procedures before giving out documents."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "talk",
+          "numberStart": 15,
+          "numberEnd": 18,
+          "instruction": "Listen to an academic talk.",
+          "visual": "professor_lecture",
+          "audio": "audio/t3/t3_m1_talk_s1.mp3",
+          "questions": [
+            {
+              "number": 15,
+              "question": "What is the lecture mainly about?",
+              "choices": [
+                "The social importance of places where people meet informally.",
+                "How coffee shops earn more money than libraries.",
+                "Why workplaces should be redesigned as parks.",
+                "The history of community-center architecture."
+              ],
+              "answerIndex": 0,
+              "explanation": "The professor defines third places and explains why geographers study them."
+            },
+            {
+              "number": 16,
+              "question": "Why does the professor mention libraries, parks, and barbershops?",
+              "choices": [
+                "To rank which spaces are most inclusive.",
+                "To argue that coffee shops are overvalued.",
+                "To show that many different settings can serve as third places.",
+                "To compare indoor and outdoor noise levels."
+              ],
+              "answerIndex": 2,
+              "explanation": "These examples broaden the category beyond coffee shops."
+            },
+            {
+              "number": 17,
+              "question": "According to the professor, why are third places significant?",
+              "choices": [
+                "They reduce the need for public transportation.",
+                "They can help build trust and circulate information within a community.",
+                "They are always free to use.",
+                "They replace the function of workplaces."
+              ],
+              "answerIndex": 1,
+              "explanation": "The lecture says these spaces may strengthen local networks and a sense of belonging."
+            },
+            {
+              "number": 18,
+              "question": "What will the professor most likely discuss next?",
+              "choices": [
+                "Design rules for private office buildings.",
+                "The history of public libraries in Europe.",
+                "How business districts influence housing prices.",
+                "Research comparing neighborhoods with different public-space policies."
+              ],
+              "answerIndex": 3,
+              "explanation": "The professor previews a study comparing two neighborhoods."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2",
+      "difficulty": "Slightly harder than Module 1",
+      "items": [
+        {
+          "kind": "response",
+          "number": 1,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m2_resp_q1.mp3",
+          "choices": [
+            "The conference hotel is already full.",
+            "I highlighted the title in blue.",
+            "Yes, the deadline is in October.",
+            "They wanted the research method described more precisely."
+          ],
+          "answerIndex": 3,
+          "explanation": "This explains the reason the abstract was returned."
+        },
+        {
+          "kind": "response",
+          "number": 2,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m2_resp_q2.mp3",
+          "choices": [
+            "The recital program was printed yesterday.",
+            "Only if no ensemble has reserved it for cleanup.",
+            "I moved the chairs near the piano.",
+            "No, the audience entered from the side door."
+          ],
+          "answerIndex": 1,
+          "explanation": "The response answers the question and adds the condition."
+        },
+        {
+          "kind": "response",
+          "number": 3,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m2_resp_q3.mp3",
+          "choices": [
+            "The article appeared in a weekly magazine.",
+            "I copied the citation into my notes.",
+            "That's because the author is distinguishing correlation from causation.",
+            "The seminar begins in fifteen minutes."
+          ],
+          "answerIndex": 2,
+          "explanation": "The reply explains the author's cautious tone."
+        },
+        {
+          "kind": "response",
+          "number": 4,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m2_resp_q4.mp3",
+          "choices": [
+            "Not if you explain why the third one lacks comparable data.",
+            "The panel meets in the engineering hall.",
+            "I submitted my slides in PDF format.",
+            "Yes, the registration line was long."
+          ],
+          "answerIndex": 0,
+          "explanation": "The answer gives a likely judgment and the reasoning needed."
+        },
+        {
+          "kind": "response",
+          "number": 5,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m2_resp_q5.mp3",
+          "choices": [
+            "Those notes were printed on recycled paper.",
+            "I stored the binder on the shelf.",
+            "The reliability chart is on the last page.",
+            "Then we should agree on the criteria before entering anything else."
+          ],
+          "answerIndex": 3,
+          "explanation": "The response addresses the methodological concern by proposing a solution."
+        },
+        {
+          "kind": "response",
+          "number": 6,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m2_resp_q6.mp3",
+          "choices": [
+            "The reviewer is from another university.",
+            "I sent the revised version on Tuesday.",
+            "Look at the final paragraph—she accepts the claim but questions the sample size.",
+            "That journal uses double spacing."
+          ],
+          "answerIndex": 2,
+          "explanation": "This clarifies the reviewer's position by pointing to the sample-size concern."
+        },
+        {
+          "kind": "response",
+          "number": 7,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t3/t3_m2_resp_q7.mp3",
+          "choices": [
+            "Mostly, but they emphasized the cataloging decisions even more.",
+            "The workshop room was colder than usual.",
+            "No, the projector stopped working.",
+            "I missed the opening remarks."
+          ],
+          "answerIndex": 0,
+          "explanation": "The response indirectly answers yes/no and adds what the workshop stressed more."
+        },
+        {
+          "kind": "response",
+          "number": 8,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t3/t3_m2_resp_q8.mp3",
+          "choices": [
+            "The transcription software was updated recently.",
+            "Yes, as long as the participants cannot be identified from context.",
+            "I recorded those interviews last spring.",
+            "That quotation appears in chapter four."
+          ],
+          "answerIndex": 1,
+          "explanation": "This gives the condition under which direct quotations can still be used."
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 9,
+          "numberEnd": 10,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t3/t3_m2_conv_s1.mp3",
+          "questions": [
+            {
+              "number": 9,
+              "question": "What problem does the woman identify in her draft?",
+              "choices": [
+                "She lost one of the historical maps.",
+                "Her adviser rejected the topic completely.",
+                "Her visual evidence does not match the time frame emphasized in her argument.",
+                "She cannot find migration data for the last decade."
+              ],
+              "answerIndex": 2,
+              "explanation": "She says the maps cover twenty years while her written argument focuses on ten."
+            },
+            {
+              "number": 10,
+              "question": "What will the woman probably do next?",
+              "choices": [
+                "Discard all of the maps.",
+                "Collect new data before revising anything.",
+                "Ask a different adviser for feedback.",
+                "Rewrite the introduction to frame the shorter period within a broader trend."
+              ],
+              "answerIndex": 3,
+              "explanation": "She says she thinks she will revise the introduction before redesigning the figures."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 11,
+          "numberEnd": 12,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t3/t3_m2_conv_s2.mp3",
+          "questions": [
+            {
+              "number": 11,
+              "question": "Why is the man reconsidering his pilot-test plan?",
+              "choices": [
+                "He has less sensor access time than he expected.",
+                "Participants have begun canceling their appointments.",
+                "The instructions are already too simple.",
+                "The lab denied his request entirely."
+              ],
+              "answerIndex": 0,
+              "explanation": "He says the lab approved the request for only three afternoons instead of a week."
+            },
+            {
+              "number": 12,
+              "question": "How does the woman suggest he use the pilot test?",
+              "choices": [
+                "As the final source of publishable data.",
+                "As a way to see whether the procedure and instructions work smoothly.",
+                "As a replacement for motion-sensor measurements.",
+                "As proof that he needs no further lab time."
+              ],
+              "answerIndex": 1,
+              "explanation": "She suggests reducing the trials and using the pilot mainly to check the setup and instructions."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "announcement",
+          "numberStart": 13,
+          "numberEnd": 14,
+          "instruction": "Listen to an announcement.",
+          "visual": "announcement_campus",
+          "audio": "audio/t3/t3_m2_ann_s1.mp3",
+          "questions": [
+            {
+              "number": 13,
+              "question": "What is the main purpose of the announcement?",
+              "choices": [
+                "To recruit judges for the innovation showcase.",
+                "To announce that the event has been cancelled.",
+                "To explain a change in the setup schedule for an upcoming event.",
+                "To describe new rules for team registration."
+              ],
+              "answerIndex": 2,
+              "explanation": "The announcement focuses on the delayed availability of display tables and related planning details."
+            },
+            {
+              "number": 14,
+              "question": "Why are teams told about the rehearsal room?",
+              "choices": [
+                "It will replace the auditorium permanently.",
+                "It is where judges will conduct interviews.",
+                "It contains the updated floor diagrams.",
+                "It can be requested if they need additional time to test equipment."
+              ],
+              "answerIndex": 3,
+              "explanation": "The rehearsal room is offered as an option for teams needing more testing time."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "talk",
+          "numberStart": 15,
+          "numberEnd": 18,
+          "instruction": "Listen to an academic talk.",
+          "visual": "professor_lecture",
+          "audio": "audio/t3/t3_m2_talk_s1.mp3",
+          "questions": [
+            {
+              "number": 15,
+              "question": "What is the lecture mainly about?",
+              "choices": [
+                "Why students remember names better than dates.",
+                "The difference between two types of memory tasks.",
+                "How memory can be improved by sleep alone.",
+                "Why recognition tests are always more accurate."
+              ],
+              "answerIndex": 1,
+              "explanation": "The professor defines recall and recognition and explains why the distinction matters."
+            },
+            {
+              "number": 16,
+              "question": "Why does the professor mention a list of names?",
+              "choices": [
+                "To illustrate how recognition tasks provide memory cues.",
+                "To compare memory with visual perception.",
+                "To show that lecture notes are unreliable.",
+                "To argue that names are easier to store than concepts."
+              ],
+              "answerIndex": 0,
+              "explanation": "The list-of-names example shows how cues make recognition easier than unsupported recall."
+            },
+            {
+              "number": 17,
+              "question": "What does the professor suggest about poor recall performance?",
+              "choices": [
+                "It proves the material was never learned.",
+                "It usually results from lack of motivation.",
+                "It matters only in classroom testing.",
+                "It may reflect difficult retrieval conditions rather than total forgetting."
+              ],
+              "answerIndex": 3,
+              "explanation": "The lecture says recognition can reveal partial knowledge that recall tasks miss."
+            },
+            {
+              "number": 18,
+              "question": "What will the professor most likely discuss next?",
+              "choices": [
+                "Methods for improving sleep before exams.",
+                "Why recall tasks should replace all recognition tests.",
+                "How familiarity can lead to false recognition.",
+                "The history of cognitive psychology departments."
+              ],
+              "answerIndex": 2,
+              "explanation": "The lecture ends by previewing false recognition."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

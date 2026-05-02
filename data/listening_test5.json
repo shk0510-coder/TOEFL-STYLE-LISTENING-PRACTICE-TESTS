@@ -1,0 +1,603 @@
+{
+  "testId": "listening_test5",
+  "title": "TOEFL Listening Practice — Test 5",
+  "audioNote": "Audio will play only once.",
+  "modules": [
+    {
+      "title": "Module 1",
+      "difficulty": "Baseline slightly above average",
+      "items": [
+        {
+          "kind": "response",
+          "number": 1,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m1_resp_q1.mp3",
+          "choices": [
+            "The registrar closes at four today.",
+            "I printed the syllabus already.",
+            "Yes, it's listed on the course website now.",
+            "No, the lecture was recorded."
+          ],
+          "answerIndex": 2,
+          "explanation": "This directly answers whether the exam room has been posted."
+        },
+        {
+          "kind": "response",
+          "number": 2,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m1_resp_q2.mp3",
+          "choices": [
+            "The clubs are holding an involvement fair there.",
+            "That courtyard gets windy in spring.",
+            "I passed by the library first.",
+            "The tables were moved last week."
+          ],
+          "answerIndex": 0,
+          "explanation": "A campus fair best explains the tables."
+        },
+        {
+          "kind": "response",
+          "number": 3,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m1_resp_q3.mp3",
+          "choices": [
+            "The printer needs more paper.",
+            "I renewed my ID card last month.",
+            "That office closes during lunch.",
+            "Sure, just come back before they start calling names."
+          ],
+          "answerIndex": 3,
+          "explanation": "The reply agrees to help and adds a condition."
+        },
+        {
+          "kind": "response",
+          "number": 4,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m1_resp_q4.mp3",
+          "choices": [
+            "The museum opens at ten.",
+            "Not today—they moved it back to the main campus.",
+            "I still need to label the samples.",
+            "Yes, the lab report is due Friday."
+          ],
+          "answerIndex": 1,
+          "explanation": "The answer corrects the mistaken location."
+        },
+        {
+          "kind": "response",
+          "number": 5,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m1_resp_q5.mp3",
+          "choices": [
+            "On the cart outside the seminar room.",
+            "Those guides are organized by region.",
+            "I only need one chapter tonight.",
+            "The seminar starts after dinner."
+          ],
+          "answerIndex": 0,
+          "explanation": "The question asks for a drop-off location."
+        },
+        {
+          "kind": "response",
+          "number": 6,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m1_resp_q6.mp3",
+          "choices": [
+            "The section heading is already bold.",
+            "I saved the graph as an image.",
+            "Then add a sentence linking the main finding to the original prediction.",
+            "Our adviser arrives at noon."
+          ],
+          "answerIndex": 2,
+          "explanation": "The answer suggests how to strengthen the connection."
+        },
+        {
+          "kind": "response",
+          "number": 7,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m1_resp_q7.mp3",
+          "choices": [
+            "The lab hired new tutors this term.",
+            "Usually around one o'clock, after the morning appointments.",
+            "I revised the introduction there.",
+            "Those handouts are near the door."
+          ],
+          "answerIndex": 1,
+          "explanation": "A time-based answer fits the question."
+        },
+        {
+          "kind": "response",
+          "number": 8,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m1_resp_q8.mp3",
+          "choices": [
+            "That tour includes the new greenhouse.",
+            "I packed the safety goggles already.",
+            "The bus stop is behind the gym.",
+            "Then we should call the instructor before we leave campus."
+          ],
+          "answerIndex": 3,
+          "explanation": "The reply responds directly to the possible delay."
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 9,
+          "numberEnd": 10,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t5/t5_m1_conv_s1.mp3",
+          "questions": [
+            {
+              "number": 9,
+              "question": "Why does the woman want to switch presentation days?",
+              "choices": [
+                "Because the classroom is too small tomorrow.",
+                "So she and the man will have more time to finish revising.",
+                "Because their instructor asked them to present earlier.",
+                "Because the lab partner forgot the assignment."
+              ],
+              "answerIndex": 1,
+              "explanation": "If they cannot switch, they will have to finish editing that night, which shows why a later day would help."
+            },
+            {
+              "number": 10,
+              "question": "How do the students decide to improve the method section?",
+              "choices": [
+                "By removing the method section entirely.",
+                "By asking the instructor to explain it for them.",
+                "By adding more specialized terminology.",
+                "By replacing some technical explanation with a visual diagram."
+              ],
+              "answerIndex": 3,
+              "explanation": "They think a diagram will make the explanation clearer and shorter."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 11,
+          "numberEnd": 12,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t5/t5_m1_conv_s2.mp3",
+          "questions": [
+            {
+              "number": 11,
+              "question": "What change happened to the woman's volunteer work?",
+              "choices": [
+                "Her weekend shift was cancelled.",
+                "She was asked to train new volunteers immediately.",
+                "She was assigned to a different role at the pantry.",
+                "She must work at another campus location."
+              ],
+              "answerIndex": 2,
+              "explanation": "She says she was moved from sorting donations to working at the intake desk."
+            },
+            {
+              "number": 12,
+              "question": "Why does the woman become more positive about the change?",
+              "choices": [
+                "Learning the new role could make her more useful in the future.",
+                "The software turned out to be easy to install.",
+                "The coordinator promised to shorten her shift.",
+                "She prefers working alone to sorting donations."
+              ],
+              "answerIndex": 0,
+              "explanation": "She says understanding both jobs will let her volunteer more flexibly later."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "announcement",
+          "numberStart": 13,
+          "numberEnd": 14,
+          "instruction": "Listen to an announcement.",
+          "visual": "announcement_campus",
+          "audio": "audio/t5/t5_m1_ann_s1.mp3",
+          "questions": [
+            {
+              "number": 13,
+              "question": "What is the main purpose of the announcement?",
+              "choices": [
+                "To advertise new tutoring appointments.",
+                "To announce a permanent software change.",
+                "To request volunteers for the front desk.",
+                "To explain how a temporary network outage will affect one campus center."
+              ],
+              "answerIndex": 3,
+              "explanation": "The announcement explains what will and will not be available during the outage."
+            },
+            {
+              "number": 14,
+              "question": "Why are some students told to arrive early?",
+              "choices": [
+                "They must help fix the network problem.",
+                "They may need printed materials prepared at the front desk.",
+                "They need to reserve conversation rooms in person.",
+                "They will receive new login accounts."
+              ],
+              "answerIndex": 1,
+              "explanation": "Students with appointments may need alternative paper materials during the outage."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "talk",
+          "numberStart": 15,
+          "numberEnd": 18,
+          "instruction": "Listen to an academic talk.",
+          "visual": "professor_lecture",
+          "audio": "audio/t5/t5_m1_talk_s1.mp3",
+          "questions": [
+            {
+              "number": 15,
+              "question": "What is the lecture mainly about?",
+              "choices": [
+                "How beliefs about the future influence current decisions.",
+                "Why farmers always store grain until prices rise.",
+                "How financial markets eliminate uncertainty.",
+                "Why shortages are caused only by policy mistakes."
+              ],
+              "answerIndex": 0,
+              "explanation": "The professor focuses on expectations and their effect on present behavior."
+            },
+            {
+              "number": 16,
+              "question": "Why does the professor mention a farmer storing grain?",
+              "choices": [
+                "To compare agriculture with wage negotiations.",
+                "To show that storage is cost-free.",
+                "To illustrate how future price expectations can shape a current choice.",
+                "To argue that farmers predict markets perfectly."
+              ],
+              "answerIndex": 2,
+              "explanation": "The farmer example shows expectations affecting a decision made now."
+            },
+            {
+              "number": 17,
+              "question": "What does the professor say can happen when many people expect a shortage?",
+              "choices": [
+                "Prices immediately become stable.",
+                "Their behavior may help bring the shortage about.",
+                "Markets stop responding to information.",
+                "Firms lower production to reduce waste."
+              ],
+              "answerIndex": 1,
+              "explanation": "Buying earlier and in larger quantities can create the feared shortage."
+            },
+            {
+              "number": 18,
+              "question": "What will the professor most likely discuss next?",
+              "choices": [
+                "Why rumors have no effect on markets.",
+                "How farmers negotiate grain contracts.",
+                "Methods for storing food more efficiently.",
+                "An episode in which inflation expectations influenced wage decisions."
+              ],
+              "answerIndex": 3,
+              "explanation": "The lecture ends by previewing a historical case about inflation expectations and wages."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2",
+      "difficulty": "Slightly harder than Module 1",
+      "items": [
+        {
+          "kind": "response",
+          "number": 1,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m2_resp_q1.mp3",
+          "choices": [
+            "The reviewer sent comments by email.",
+            "I formatted the bibliography last night.",
+            "Yes, the framework appears in chapter one.",
+            "Because two of the concepts overlap too much in your current draft."
+          ],
+          "answerIndex": 3,
+          "explanation": "This explains why the reviewer requested clearer boundaries."
+        },
+        {
+          "kind": "response",
+          "number": 2,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m2_resp_q2.mp3",
+          "choices": [
+            "The workshop begins in room B.",
+            "Only if the technician signs the checkout form first.",
+            "I packed the cables already.",
+            "No, the survey closes on Friday."
+          ],
+          "answerIndex": 1,
+          "explanation": "The answer addresses permission and the required condition."
+        },
+        {
+          "kind": "response",
+          "number": 3,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m2_resp_q3.mp3",
+          "choices": [
+            "The article was translated from French.",
+            "I read the appendix this morning.",
+            "She delays the main claim until after addressing two objections.",
+            "The author teaches at another university."
+          ],
+          "answerIndex": 2,
+          "explanation": "The response explains why the claim seems hard to locate."
+        },
+        {
+          "kind": "response",
+          "number": 4,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m2_resp_q4.mp3",
+          "choices": [
+            "Possibly, if you explain why depth matters more than breadth for this question.",
+            "The committee meets after lunch.",
+            "I printed the consent forms already.",
+            "No, the observation room is reserved."
+          ],
+          "answerIndex": 0,
+          "explanation": "This gives a conditional judgment about committee acceptance."
+        },
+        {
+          "kind": "response",
+          "number": 5,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m2_resp_q5.mp3",
+          "choices": [
+            "That codebook was uploaded this morning.",
+            "I organized the responses by date.",
+            "The training room is near the library.",
+            "Then we should redefine the categories before starting reliability training."
+          ],
+          "answerIndex": 3,
+          "explanation": "The answer addresses the methodological concern with a concrete next step."
+        },
+        {
+          "kind": "response",
+          "number": 6,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m2_resp_q6.mp3",
+          "choices": [
+            "The reviewer cited three articles.",
+            "I revised the title page yesterday.",
+            "Her comment about representativeness suggests the evidence is the issue.",
+            "That interpretation appears in section three."
+          ],
+          "answerIndex": 2,
+          "explanation": "The note about representativeness points to a problem with the evidence base."
+        },
+        {
+          "kind": "response",
+          "number": 7,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t5/t5_m2_resp_q7.mp3",
+          "choices": [
+            "Somewhat, but they focused longer on why the measures might be misaligned.",
+            "The panel started a few minutes late.",
+            "No, the microphone cut out again.",
+            "I only caught the final question."
+          ],
+          "answerIndex": 0,
+          "explanation": "The reply indirectly answers and identifies the topic that received more emphasis."
+        },
+        {
+          "kind": "response",
+          "number": 8,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t5/t5_m2_resp_q8.mp3",
+          "choices": [
+            "The consent form uses a new template.",
+            "Absolutely, because the details themselves can reveal who the person is.",
+            "I stored the transcript on the server.",
+            "That story appears in the conclusion."
+          ],
+          "answerIndex": 1,
+          "explanation": "The response explains why anonymization still matters even without direct quotation."
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 9,
+          "numberEnd": 10,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t5/t5_m2_conv_s1.mp3",
+          "questions": [
+            {
+              "number": 9,
+              "question": "Why is the woman reconsidering how to divide the interview groups?",
+              "choices": [
+                "She lost some of the age information.",
+                "Her adviser requires equal-sized groups.",
+                "A different variable appears to explain the participants' behavior better.",
+                "The interviews were shorter than expected."
+              ],
+              "answerIndex": 2,
+              "explanation": "She realizes prior transit experience may matter more than age because participants in different age groups behaved similarly."
+            },
+            {
+              "number": 10,
+              "question": "What solution does the man propose?",
+              "choices": [
+                "Remove all group comparisons from the paper.",
+                "Interview additional participants immediately.",
+                "Focus only on age and ignore experience.",
+                "Use one factor as background information and highlight the other in the main analysis."
+              ],
+              "answerIndex": 3,
+              "explanation": "He suggests presenting age as background while emphasizing transit experience in the main analysis."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 11,
+          "numberEnd": 12,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t5/t5_m2_conv_s2.mp3",
+          "questions": [
+            {
+              "number": 11,
+              "question": "What limits the man's plan for the pilot study?",
+              "choices": [
+                "He has restricted access to software analysis sessions.",
+                "Participants are unavailable next week.",
+                "The eye-tracking equipment has not arrived.",
+                "The interface tasks are already finalized."
+              ],
+              "answerIndex": 0,
+              "explanation": "He says the software license allows only two analysis sessions next week."
+            },
+            {
+              "number": 12,
+              "question": "How does the man decide to use the pilot study?",
+              "choices": [
+                "As the main source of final data.",
+                "As a way to test the interface before running the full protocol.",
+                "As a replacement for eye-tracking analysis.",
+                "As proof that he no longer needs extra sessions."
+              ],
+              "answerIndex": 1,
+              "explanation": "He says he will scale down the pilot and treat it as a usability check."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "announcement",
+          "numberStart": 13,
+          "numberEnd": 14,
+          "instruction": "Listen to an announcement.",
+          "visual": "announcement_campus",
+          "audio": "audio/t5/t5_m2_ann_s1.mp3",
+          "questions": [
+            {
+              "number": 13,
+              "question": "What is the main purpose of the announcement?",
+              "choices": [
+                "To announce a change in the expo date.",
+                "To recruit students to support the wireless team.",
+                "To tell exhibitors how to prepare for a network test before the expo.",
+                "To explain how to submit final grades."
+              ],
+              "answerIndex": 2,
+              "explanation": "The speaker focuses on backup preparation because wireless performance may vary during testing."
+            },
+            {
+              "number": 14,
+              "question": "Why are teams told to upload an offline version of their projects?",
+              "choices": [
+                "The exhibition hall will close for repairs.",
+                "Staff will remove all live data feeds permanently.",
+                "Only offline projects can be judged at the expo.",
+                "The wireless connection may be unstable during testing."
+              ],
+              "answerIndex": 3,
+              "explanation": "A backup offline version is needed because uninterrupted streaming cannot be guaranteed."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "talk",
+          "numberStart": 15,
+          "numberEnd": 18,
+          "instruction": "Listen to an academic talk.",
+          "visual": "professor_lecture",
+          "audio": "audio/t5/t5_m2_talk_s1.mp3",
+          "questions": [
+            {
+              "number": 15,
+              "question": "What is the lecture mainly about?",
+              "choices": [
+                "Why field studies should avoid comparison altogether.",
+                "Two different perspectives researchers can use to study culture.",
+                "How anthropologists measure population size.",
+                "Why local categories are always more reliable than analysis."
+              ],
+              "answerIndex": 1,
+              "explanation": "The professor explains emic and etic perspectives and the trade-offs between them."
+            },
+            {
+              "number": 16,
+              "question": "Why does the professor say an etic perspective can be useful?",
+              "choices": [
+                "It may help researchers compare patterns across different societies.",
+                "It allows participants to define all of the terms.",
+                "It removes the need for fieldwork.",
+                "It guarantees that local meanings will be preserved."
+              ],
+              "answerIndex": 0,
+              "explanation": "The lecture says outside concepts can support comparison across settings."
+            },
+            {
+              "number": 17,
+              "question": "What limitation of an emic account does the professor mention?",
+              "choices": [
+                "It ignores local distinctions completely.",
+                "It depends only on quantitative data.",
+                "It prevents researchers from listening closely.",
+                "It may be harder to compare with accounts from other communities."
+              ],
+              "answerIndex": 3,
+              "explanation": "The professor notes that emic descriptions can make cross-setting comparison difficult."
+            },
+            {
+              "number": 18,
+              "question": "What will the professor most likely discuss next?",
+              "choices": [
+                "Methods for calculating population growth.",
+                "The history of museum collections.",
+                "A case study highlighting the tension between the two perspectives.",
+                "Why all analytical frameworks should be abandoned."
+              ],
+              "answerIndex": 2,
+              "explanation": "The lecture ends by previewing a field study where the tension was clear."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

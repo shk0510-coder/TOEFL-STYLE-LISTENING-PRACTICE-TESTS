@@ -1,0 +1,603 @@
+{
+  "testId": "listening_test2",
+  "title": "TOEFL Listening Practice — Test 2",
+  "audioNote": "Audio will play only once.",
+  "modules": [
+    {
+      "title": "Module 1",
+      "difficulty": "Baseline slightly above average",
+      "items": [
+        {
+          "kind": "response",
+          "number": 1,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m1_resp_q1.mp3",
+          "choices": [
+            "The classroom is on the third floor.",
+            "I borrowed his book last semester.",
+            "He had to attend a department meeting.",
+            "Yes, the final exam is cumulative."
+          ],
+          "answerIndex": 2,
+          "explanation": "A schedule conflict explains why the class ended earlier than expected."
+        },
+        {
+          "kind": "response",
+          "number": 2,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m1_resp_q2.mp3",
+          "choices": [
+            "They're being handed out at the front desk.",
+            "The fair begins right after lunch.",
+            "I printed my poster in color.",
+            "That studio is usually locked."
+          ],
+          "answerIndex": 0,
+          "explanation": "The question asks for a place to collect an item, so a location-based response fits."
+        },
+        {
+          "kind": "response",
+          "number": 3,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m1_resp_q3.mp3",
+          "choices": [
+            "The deadline was moved to next Monday.",
+            "I liked your presentation slides.",
+            "That folder contains last year's data.",
+            "Try the link in the updated email instead."
+          ],
+          "answerIndex": 3,
+          "explanation": "The response addresses the access problem and offers a practical fix."
+        },
+        {
+          "kind": "response",
+          "number": 4,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m1_resp_q4.mp3",
+          "choices": [
+            "The chemistry wing was renovated recently.",
+            "No, it closes at midnight tonight.",
+            "I left my goggles in the locker.",
+            "Yes, the instructor posted three videos."
+          ],
+          "answerIndex": 1,
+          "explanation": "The reply corrects the mistaken due time."
+        },
+        {
+          "kind": "response",
+          "number": 5,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m1_resp_q5.mp3",
+          "choices": [
+            "About fifteen minutes if traffic is light.",
+            "The stadium seats nearly twenty thousand people.",
+            "I usually walk there after class.",
+            "The tickets sold out quickly."
+          ],
+          "answerIndex": 0,
+          "explanation": "A duration question needs a time estimate."
+        },
+        {
+          "kind": "response",
+          "number": 6,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m1_resp_q6.mp3",
+          "choices": [
+            "The conference room is already full.",
+            "Your adviser teaches linguistics.",
+            "Then narrow it to one clear research question.",
+            "I submitted the form yesterday."
+          ],
+          "answerIndex": 2,
+          "explanation": "The answer responds to his concern by suggesting a revision strategy."
+        },
+        {
+          "kind": "response",
+          "number": 7,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m1_resp_q7.mp3",
+          "choices": [
+            "The center rents cameras too.",
+            "She said she'd drop it off after her seminar.",
+            "No, the workshop was cancelled.",
+            "I reserved the editing booth."
+          ],
+          "answerIndex": 1,
+          "explanation": "This directly answers the question about whether the recorder was returned."
+        },
+        {
+          "kind": "response",
+          "number": 8,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m1_resp_q8.mp3",
+          "choices": [
+            "That printer was installed last month.",
+            "The poster uses a different font.",
+            "I only need one extra page.",
+            "Let's send the file to the copy shop downstairs."
+          ],
+          "answerIndex": 3,
+          "explanation": "The reply addresses the time problem by suggesting a faster alternative."
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 9,
+          "numberEnd": 10,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t2/t2_m1_conv_s1.mp3",
+          "questions": [
+            {
+              "number": 9,
+              "question": "What problem is the man having with the grant application?",
+              "choices": [
+                "He forgot the submission deadline.",
+                "He cannot complete the budget section accurately.",
+                "He has not chosen a project topic.",
+                "He lost his travel receipts."
+              ],
+              "answerIndex": 1,
+              "explanation": "He says he is stuck on the budget section because he cannot find one of the equipment costs."
+            },
+            {
+              "number": 10,
+              "question": "What does the woman suggest the man do?",
+              "choices": [
+                "Collect data at a closer location.",
+                "Remove the travel request from the budget.",
+                "Submit the form without the missing price.",
+                "Ask Nina for information about the recorder rental."
+              ],
+              "answerIndex": 3,
+              "explanation": "She recommends asking Nina because she borrowed the same kind of recorder previously."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 11,
+          "numberEnd": 12,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t2/t2_m1_conv_s2.mp3",
+          "questions": [
+            {
+              "number": 11,
+              "question": "What did the writing center focus on in the woman's draft?",
+              "choices": [
+                "Her use of citation format.",
+                "The lack of relevant sources.",
+                "The organization of her literature review.",
+                "Her conclusion paragraph only."
+              ],
+              "answerIndex": 2,
+              "explanation": "She says the tutor thought the sources were fine but the organization and transitions needed work."
+            },
+            {
+              "number": 12,
+              "question": "What does the woman imply about the writing center schedule?",
+              "choices": [
+                "More appointments may become available later.",
+                "Tutors do not work on Thursdays.",
+                "Students may only book one visit.",
+                "The center is closed for the week."
+              ],
+              "answerIndex": 0,
+              "explanation": "She says extra slots are often added after cancellations."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "announcement",
+          "numberStart": 13,
+          "numberEnd": 14,
+          "instruction": "Listen to an announcement.",
+          "visual": "announcement_campus",
+          "audio": "audio/t2/t2_m1_ann_s1.mp3",
+          "questions": [
+            {
+              "number": 13,
+              "question": "What is the main purpose of the announcement?",
+              "choices": [
+                "To advertise membership at another recreation center.",
+                "To announce a new evening exercise class.",
+                "To report that the fitness center will close for a week.",
+                "To explain a temporary change affecting the locker room."
+              ],
+              "answerIndex": 3,
+              "explanation": "The announcement explains an earlier locker-room closing time and gives an alternative location."
+            },
+            {
+              "number": 14,
+              "question": "Why does the speaker mention the recreation complex?",
+              "choices": [
+                "Because new ID cards will be issued there.",
+                "Because students can use its showers while repairs are being made.",
+                "Because the front desk is moving there permanently.",
+                "Because fitness classes are being transferred there."
+              ],
+              "answerIndex": 1,
+              "explanation": "The complex is mentioned as the place students should go if they need shower access after 7 p.m."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "talk",
+          "numberStart": 15,
+          "numberEnd": 18,
+          "instruction": "Listen to an academic talk.",
+          "visual": "professor_lecture",
+          "audio": "audio/t2/t2_m1_talk_s1.mp3",
+          "questions": [
+            {
+              "number": 15,
+              "question": "What is the lecture mainly about?",
+              "choices": [
+                "How early choices can shape later technological adoption.",
+                "Why computer keyboards are becoming obsolete.",
+                "How schools teach typing speed.",
+                "Why efficient inventions are always expensive."
+              ],
+              "answerIndex": 0,
+              "explanation": "The professor focuses on path dependence and uses the keyboard layout as an example."
+            },
+            {
+              "number": 16,
+              "question": "Why does the professor mention typing manuals and office training?",
+              "choices": [
+                "To explain how manuals were written in the nineteenth century.",
+                "To argue that schools resisted all new technology.",
+                "To show why changing to a new system could be expensive.",
+                "To compare office workers with factory workers."
+              ],
+              "answerIndex": 2,
+              "explanation": "These examples illustrate the institutional costs of switching away from an established standard."
+            },
+            {
+              "number": 17,
+              "question": "According to the lecture, what is path dependence?",
+              "choices": [
+                "A process for measuring typing efficiency.",
+                "A situation in which earlier decisions constrain later choices.",
+                "A theory that inventions spread randomly.",
+                "A method companies use to train employees."
+              ],
+              "answerIndex": 1,
+              "explanation": "The professor defines it as the way an early decision shapes later options."
+            },
+            {
+              "number": 18,
+              "question": "What will the professor most likely discuss next?",
+              "choices": [
+                "The history of printing manuals.",
+                "A debate about computer games.",
+                "New research on office architecture.",
+                "A case involving transportation technology."
+              ],
+              "answerIndex": 3,
+              "explanation": "The lecture ends by previewing a transportation example."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2",
+      "difficulty": "Slightly harder than Module 1",
+      "items": [
+        {
+          "kind": "response",
+          "number": 1,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m2_resp_q1.mp3",
+          "choices": [
+            "The proposal portal opens tomorrow.",
+            "I printed the revised bibliography.",
+            "Her office is near the archives.",
+            "She said the comparison group was still too broad."
+          ],
+          "answerIndex": 3,
+          "explanation": "This directly answers why the adviser asked for another revision."
+        },
+        {
+          "kind": "response",
+          "number": 2,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m2_resp_q2.mp3",
+          "choices": [
+            "The interview starts after the panel discussion.",
+            "Only for one hour; anything longer needs approval.",
+            "I used the smaller room last week.",
+            "No, the projector isn't working."
+          ],
+          "answerIndex": 1,
+          "explanation": "The reply addresses the reservation rule and adds a condition."
+        },
+        {
+          "kind": "response",
+          "number": 3,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m2_resp_q3.mp3",
+          "choices": [
+            "The journal publishes only twice a year.",
+            "I highlighted the final paragraph in blue.",
+            "That's because she presents the counterargument before her main claim.",
+            "The library printer is out of paper."
+          ],
+          "answerIndex": 2,
+          "explanation": "The answer explains why the argument seems indirect by describing the article's structure."
+        },
+        {
+          "kind": "response",
+          "number": 4,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m2_resp_q4.mp3",
+          "choices": [
+            "Probably not, as long as the methods section is complete.",
+            "The appendix was translated last summer.",
+            "I submitted the receipts separately.",
+            "Yes, the meeting room has been changed."
+          ],
+          "answerIndex": 0,
+          "explanation": "This gives a likely judgment and the condition that matters most."
+        },
+        {
+          "kind": "response",
+          "number": 5,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m2_resp_q5.mp3",
+          "choices": [
+            "The station was installed near the lake.",
+            "I entered the data manually.",
+            "Your report is due before noon.",
+            "Then we should borrow the portable sensor from the geography lab."
+          ],
+          "answerIndex": 3,
+          "explanation": "The reply responds to the problem by proposing an alternative source of data."
+        },
+        {
+          "kind": "response",
+          "number": 6,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m2_resp_q6.mp3",
+          "choices": [
+            "The reviewer teaches in another department.",
+            "I turned in the draft on Monday.",
+            "Look at the margin note—she asks you to define the term more precisely.",
+            "The evidence table is on page seven."
+          ],
+          "answerIndex": 2,
+          "explanation": "The answer distinguishes between the two possibilities by referring to the note."
+        },
+        {
+          "kind": "response",
+          "number": 7,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_man",
+          "audio": "audio/t2/t2_m2_resp_q7.mp3",
+          "choices": [
+            "Partly, but they spent even longer on framing the research question.",
+            "The workshop room was already full.",
+            "No, the handout was printed in color.",
+            "I missed the first ten minutes."
+          ],
+          "answerIndex": 0,
+          "explanation": "This indirectly answers yes/no and adds a comparison about emphasis."
+        },
+        {
+          "kind": "response",
+          "number": 8,
+          "instruction": "Choose the best response.",
+          "displayMode": "single",
+          "visual": "student_woman",
+          "audio": "audio/t2/t2_m2_resp_q8.mp3",
+          "choices": [
+            "The citation style guide was revised recently.",
+            "Only if you quote it directly and identify the speaker.",
+            "I stored the transcript in a shared folder.",
+            "That interview lasted nearly an hour."
+          ],
+          "answerIndex": 1,
+          "explanation": "The response addresses the rule and gives the condition under which permission is needed."
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 9,
+          "numberEnd": 10,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t2/t2_m2_conv_s1.mp3",
+          "questions": [
+            {
+              "number": 9,
+              "question": "What issue is the man considering?",
+              "choices": [
+                "Whether to cancel the pilot study.",
+                "Whether to change his survey questions completely.",
+                "Whether to separate two similar response categories.",
+                "Whether to remove comments about automation."
+              ],
+              "answerIndex": 2,
+              "explanation": "He is deciding whether cautious and skeptical responses should be coded separately."
+            },
+            {
+              "number": 10,
+              "question": "What does the woman suggest the man do?",
+              "choices": [
+                "Combine the categories and collect more pilot data.",
+                "Ignore the pilot and redesign the study.",
+                "Use only the largest category in the final analysis.",
+                "Keep both categories and explain the decision in the methods section."
+              ],
+              "answerIndex": 3,
+              "explanation": "She proposes preserving both categories for now and noting the refinement process in the methods section."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "conversation",
+          "numberStart": 11,
+          "numberEnd": 12,
+          "instruction": "Listen to a conversation.",
+          "visual": "conversation_students",
+          "audio": "audio/t2/t2_m2_conv_s2.mp3",
+          "questions": [
+            {
+              "number": 11,
+              "question": "What difficulty does the man mention about the internship assignment?",
+              "choices": [
+                "He must learn how to use the catalog system very quickly.",
+                "He was placed in a department he dislikes.",
+                "He cannot access the collections room.",
+                "He is required to guide visitors on weekends."
+              ],
+              "answerIndex": 0,
+              "explanation": "He says the supervisor wants him to learn the database system before Friday."
+            },
+            {
+              "number": 12,
+              "question": "Why does the woman suggest looking at sample entries?",
+              "choices": [
+                "They may replace the need to read the manual.",
+                "They may show how staff choose keywords in practice.",
+                "They may help him switch to a visitor-services role.",
+                "They may prove the deadline can be extended."
+              ],
+              "answerIndex": 1,
+              "explanation": "The manual lacks guidance on choosing keywords, so sample entries could reveal the logic staff use."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "announcement",
+          "numberStart": 13,
+          "numberEnd": 14,
+          "instruction": "Listen to an announcement.",
+          "visual": "announcement_campus",
+          "audio": "audio/t2/t2_m2_ann_s1.mp3",
+          "questions": [
+            {
+              "number": 13,
+              "question": "What is the announcement mainly about?",
+              "choices": [
+                "A change in the symposium date.",
+                "A new requirement for graduate admissions.",
+                "A file-system migration that may temporarily limit editing access.",
+                "A workshop on digital design software."
+              ],
+              "answerIndex": 2,
+              "explanation": "The announcement explains the migration and warns that shared folders may be read-only during part of the process."
+            },
+            {
+              "number": 14,
+              "question": "Why are students told to download files in advance?",
+              "choices": [
+                "Because the old storage system will be deleted immediately.",
+                "Because the symposium requires printed copies only.",
+                "Because staff need students to rename all their files.",
+                "Because shared folders may not be editable during the migration."
+              ],
+              "answerIndex": 3,
+              "explanation": "Students should download files they plan to edit because the shared folders may temporarily allow viewing but not editing."
+            }
+          ]
+        },
+        {
+          "kind": "set",
+          "setType": "talk",
+          "numberStart": 15,
+          "numberEnd": 18,
+          "instruction": "Listen to an academic talk.",
+          "visual": "professor_lecture",
+          "audio": "audio/t2/t2_m2_talk_s1.mp3",
+          "questions": [
+            {
+              "number": 15,
+              "question": "What is the main purpose of the lecture?",
+              "choices": [
+                "To argue that households should stop buying efficient devices.",
+                "To explain why efficiency gains do not always produce the full expected savings.",
+                "To compare lighting costs in different countries.",
+                "To describe how fuel taxes are calculated."
+              ],
+              "answerIndex": 1,
+              "explanation": "The lecture introduces the rebound effect and explains how behavior can reduce expected savings."
+            },
+            {
+              "number": 16,
+              "question": "Why does the professor mention efficient light bulbs and vehicles?",
+              "choices": [
+                "To provide examples of how lower operating costs can change behavior.",
+                "To show that transportation uses less energy than lighting.",
+                "To compare household spending with government policy.",
+                "To prove that direct rebound is rare."
+              ],
+              "answerIndex": 0,
+              "explanation": "These examples illustrate the basic logic of the rebound effect."
+            },
+            {
+              "number": 17,
+              "question": "According to the professor, what is indirect rebound?",
+              "choices": [
+                "When the same device is used less intensively.",
+                "When engineers overestimate fuel prices.",
+                "When consumers reject efficient technology completely.",
+                "When money saved through efficiency is spent on other energy-using activities."
+              ],
+              "answerIndex": 3,
+              "explanation": "The professor contrasts direct rebound with indirect rebound, defining the latter as spending savings elsewhere."
+            },
+            {
+              "number": 18,
+              "question": "What will the professor most likely discuss next?",
+              "choices": [
+                "Historical inventions in transportation.",
+                "Why engineering models are inaccurate.",
+                "Methods economists use to estimate different rebound effects.",
+                "A debate over household lighting design."
+              ],
+              "answerIndex": 2,
+              "explanation": "The lecture ends by saying the next class will compare how economists measure the two effects."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
