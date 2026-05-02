@@ -13,7 +13,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m1_resp_q1.mp3",
+          "audio": "t5/t5_m1_resp_q1.mp3",
           "choices": [
             "The registrar closes at four today.",
             "I printed the syllabus already.",
