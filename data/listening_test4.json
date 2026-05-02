@@ -13,7 +13,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t4/t4_m1_resp_q1.mp3",
+          "audio": "t4/t4_m1_resp_q1.mp3",
           "choices": [
             "The store closes at six today.",
             "I bought a calculator there.",
