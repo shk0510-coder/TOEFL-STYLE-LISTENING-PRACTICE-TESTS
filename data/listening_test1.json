@@ -13,7 +13,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m1_resp_q1.mp3",
+          "audio": "t1/t1_m1_resp_q1.mp3",
           "choices": [
             "The microscope needs a new lens.",
             "No, the chemistry lab is downstairs.",
