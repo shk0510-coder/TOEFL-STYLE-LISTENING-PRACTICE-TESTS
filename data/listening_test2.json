@@ -13,7 +13,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t2/t2_m1_resp_q1.mp3",
+          "audio": "t2/t2_m1_resp_q1.mp3",
           "choices": [
             "The classroom is on the third floor.",
             "I borrowed his book last semester.",
