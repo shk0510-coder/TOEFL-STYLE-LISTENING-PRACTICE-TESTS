@@ -29,7 +29,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m1_resp_q2.mp3",
+          "audio": "t1/t1_m1_resp_q2.mp3",
           "choices": [
             "There is a career fair in the main hall.",
             "The bookstore closes early on Fridays.",
@@ -45,7 +45,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m1_resp_q3.mp3",
+          "audio": "t1/t1_m1_resp_q3.mp3",
           "choices": [
             "The lecture starts after lunch.",
             "I prefer taking notes by hand.",
@@ -61,7 +61,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m1_resp_q4.mp3",
+          "audio": "t1/t1_m1_resp_q4.mp3",
           "choices": [
             "No, the professor canceled the exam.",
             "Actually, they moved it to this afternoon.",
@@ -77,7 +77,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m1_resp_q5.mp3",
+          "audio": "t1/t1_m1_resp_q5.mp3",
           "choices": [
             "At the desk beside the entrance.",
             "Yes, they still work perfectly.",
@@ -93,7 +93,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m1_resp_q6.mp3",
+          "audio": "t1/t1_m1_resp_q6.mp3",
           "choices": [
             "The report was due last night.",
             "I used the blue folder instead.",
@@ -109,7 +109,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m1_resp_q7.mp3",
+          "audio": "t1/t1_m1_resp_q7.mp3",
           "choices": [
             "The driver was absent yesterday.",
             "It departs every half hour after six.",
@@ -125,7 +125,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m1_resp_q8.mp3",
+          "audio": "t1/t1_m1_resp_q8.mp3",
           "choices": [
             "The lecture hall seats about two hundred students.",
             "I ordered soup there last week.",
@@ -142,7 +142,7 @@
           "numberEnd": 10,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t1/t1_m1_conv_s1.mp3",
+          "audio": "t1/t1_m1_conv_s1.mp3",
           "questions": [
             {
               "number": 9,
@@ -177,7 +177,7 @@
           "numberEnd": 12,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t1/t1_m1_conv_s2.mp3",
+          "audio": "t1/t1_m1_conv_s2.mp3",
           "questions": [
             {
               "number": 11,
@@ -212,7 +212,7 @@
           "numberEnd": 14,
           "instruction": "Listen to an announcement.",
           "visual": "announcement_campus",
-          "audio": "audio/t1/t1_m1_ann_s1.mp3",
+          "audio": "t1/t1_m1_ann_s1.mp3",
           "questions": [
             {
               "number": 13,
@@ -247,7 +247,7 @@
           "numberEnd": 18,
           "instruction": "Listen to an academic talk.",
           "visual": "professor_lecture",
-          "audio": "audio/t1/t1_m1_talk_s1.mp3",
+          "audio": "t1/t1_m1_talk_s1.mp3",
           "questions": [
             {
               "number": 15,
@@ -311,7 +311,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m2_resp_q1.mp3",
+          "audio": "t1/t1_m2_resp_q1.mp3",
           "choices": [
             "The lecture meets in the arts building.",
             "I only need one more science credit.",
@@ -327,7 +327,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m2_resp_q2.mp3",
+          "audio": "t1/t1_m2_resp_q2.mp3",
           "choices": [
             "The presentation lasted almost an hour.",
             "Only if the department chair approves it in advance.",
@@ -343,7 +343,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m2_resp_q3.mp3",
+          "audio": "t1/t1_m2_resp_q3.mp3",
           "choices": [
             "It was revised during orientation.",
             "The professor teaches economics as well.",
@@ -359,7 +359,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m2_resp_q4.mp3",
+          "audio": "t1/t1_m2_resp_q4.mp3",
           "choices": [
             "The one about urban water systems on the course website.",
             "I submitted my response before breakfast.",
@@ -375,7 +375,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m2_resp_q5.mp3",
+          "audio": "t1/t1_m2_resp_q5.mp3",
           "choices": [
             "The bus ride takes about forty minutes.",
             "I borrowed boots from the equipment office.",
@@ -391,7 +391,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m2_resp_q6.mp3",
+          "audio": "t1/t1_m2_resp_q6.mp3",
           "choices": [
             "The library closes at midnight tonight.",
             "No, the website loads quickly for me.",
@@ -407,7 +407,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t1/t1_m2_resp_q7.mp3",
+          "audio": "t1/t1_m2_resp_q7.mp3",
           "choices": [
             "Only partly. She focused more on what they changed afterward.",
             "The chemistry building was renovated last year.",
@@ -423,7 +423,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t1/t1_m2_resp_q8.mp3",
+          "audio": "t1/t1_m2_resp_q8.mp3",
           "choices": [
             "That sandwich is popular for a reason.",
             "The mobile app usually saves a lot of time.",
@@ -440,7 +440,7 @@
           "numberEnd": 10,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t1/t1_m2_conv_s1.mp3",
+          "audio": "t1/t1_m2_conv_s1.mp3",
           "questions": [
             {
               "number": 9,
@@ -475,7 +475,7 @@
           "numberEnd": 12,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t1/t1_m2_conv_s2.mp3",
+          "audio": "t1/t1_m2_conv_s2.mp3",
           "questions": [
             {
               "number": 11,
@@ -510,7 +510,7 @@
           "numberEnd": 14,
           "instruction": "Listen to an announcement.",
           "visual": "announcement_campus",
-          "audio": "audio/t1/t1_m2_ann_s1.mp3",
+          "audio": "t1/t1_m2_ann_s1.mp3",
           "questions": [
             {
               "number": 13,
@@ -545,7 +545,7 @@
           "numberEnd": 18,
           "instruction": "Listen to an academic talk.",
           "visual": "professor_lecture",
-          "audio": "audio/t1/t1_m2_talk_s1.mp3",
+          "audio": "t1/t1_m2_talk_s1.mp3",
           "questions": [
             {
               "number": 15,
