@@ -29,7 +29,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m1_resp_q2.mp3",
+          "audio": "t5/t5_m1_resp_q2.mp3",
           "choices": [
             "The clubs are holding an involvement fair there.",
             "That courtyard gets windy in spring.",
@@ -45,7 +45,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m1_resp_q3.mp3",
+          "audio": "t5/t5_m1_resp_q3.mp3",
           "choices": [
             "The printer needs more paper.",
             "I renewed my ID card last month.",
@@ -61,7 +61,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m1_resp_q4.mp3",
+          "audio": "t5/t5_m1_resp_q4.mp3",
           "choices": [
             "The museum opens at ten.",
             "Not today—they moved it back to the main campus.",
@@ -77,7 +77,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m1_resp_q5.mp3",
+          "audio": "t5/t5_m1_resp_q5.mp3",
           "choices": [
             "On the cart outside the seminar room.",
             "Those guides are organized by region.",
@@ -93,7 +93,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m1_resp_q6.mp3",
+          "audio": "t5/t5_m1_resp_q6.mp3",
           "choices": [
             "The section heading is already bold.",
             "I saved the graph as an image.",
@@ -109,7 +109,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m1_resp_q7.mp3",
+          "audio": "t5/t5_m1_resp_q7.mp3",
           "choices": [
             "The lab hired new tutors this term.",
             "Usually around one o'clock, after the morning appointments.",
@@ -125,7 +125,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m1_resp_q8.mp3",
+          "audio": "t5/t5_m1_resp_q8.mp3",
           "choices": [
             "That tour includes the new greenhouse.",
             "I packed the safety goggles already.",
@@ -142,7 +142,7 @@
           "numberEnd": 10,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t5/t5_m1_conv_s1.mp3",
+          "audio": "t5/t5_m1_conv_s1.mp3",
           "questions": [
             {
               "number": 9,
@@ -177,7 +177,7 @@
           "numberEnd": 12,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t5/t5_m1_conv_s2.mp3",
+          "audio": "t5/t5_m1_conv_s2.mp3",
           "questions": [
             {
               "number": 11,
@@ -212,7 +212,7 @@
           "numberEnd": 14,
           "instruction": "Listen to an announcement.",
           "visual": "announcement_campus",
-          "audio": "audio/t5/t5_m1_ann_s1.mp3",
+          "audio": "t5/t5_m1_ann_s1.mp3",
           "questions": [
             {
               "number": 13,
@@ -247,7 +247,7 @@
           "numberEnd": 18,
           "instruction": "Listen to an academic talk.",
           "visual": "professor_lecture",
-          "audio": "audio/t5/t5_m1_talk_s1.mp3",
+          "audio": "t5/t5_m1_talk_s1.mp3",
           "questions": [
             {
               "number": 15,
@@ -311,7 +311,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m2_resp_q1.mp3",
+          "audio": "t5/t5_m2_resp_q1.mp3",
           "choices": [
             "The reviewer sent comments by email.",
             "I formatted the bibliography last night.",
@@ -327,7 +327,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m2_resp_q2.mp3",
+          "audio": "t5/t5_m2_resp_q2.mp3",
           "choices": [
             "The workshop begins in room B.",
             "Only if the technician signs the checkout form first.",
@@ -343,7 +343,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m2_resp_q3.mp3",
+          "audio": "t5/t5_m2_resp_q3.mp3",
           "choices": [
             "The article was translated from French.",
             "I read the appendix this morning.",
@@ -359,7 +359,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m2_resp_q4.mp3",
+          "audio": "t5/t5_m2_resp_q4.mp3",
           "choices": [
             "Possibly, if you explain why depth matters more than breadth for this question.",
             "The committee meets after lunch.",
@@ -375,7 +375,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m2_resp_q5.mp3",
+          "audio": "t5/t5_m2_resp_q5.mp3",
           "choices": [
             "That codebook was uploaded this morning.",
             "I organized the responses by date.",
@@ -391,7 +391,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m2_resp_q6.mp3",
+          "audio": "t5/t5_m2_resp_q6.mp3",
           "choices": [
             "The reviewer cited three articles.",
             "I revised the title page yesterday.",
@@ -407,7 +407,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_woman",
-          "audio": "audio/t5/t5_m2_resp_q7.mp3",
+          "audio": "t5/t5_m2_resp_q7.mp3",
           "choices": [
             "Somewhat, but they focused longer on why the measures might be misaligned.",
             "The panel started a few minutes late.",
@@ -423,7 +423,7 @@
           "instruction": "Choose the best response.",
           "displayMode": "single",
           "visual": "student_man",
-          "audio": "audio/t5/t5_m2_resp_q8.mp3",
+          "audio": "t5/t5_m2_resp_q8.mp3",
           "choices": [
             "The consent form uses a new template.",
             "Absolutely, because the details themselves can reveal who the person is.",
@@ -440,7 +440,7 @@
           "numberEnd": 10,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t5/t5_m2_conv_s1.mp3",
+          "audio": "t5/t5_m2_conv_s1.mp3",
           "questions": [
             {
               "number": 9,
@@ -475,7 +475,7 @@
           "numberEnd": 12,
           "instruction": "Listen to a conversation.",
           "visual": "conversation_students",
-          "audio": "audio/t5/t5_m2_conv_s2.mp3",
+          "audio": "t5/t5_m2_conv_s2.mp3",
           "questions": [
             {
               "number": 11,
@@ -510,7 +510,7 @@
           "numberEnd": 14,
           "instruction": "Listen to an announcement.",
           "visual": "announcement_campus",
-          "audio": "audio/t5/t5_m2_ann_s1.mp3",
+          "audio": "t5/t5_m2_ann_s1.mp3",
           "questions": [
             {
               "number": 13,
@@ -545,7 +545,7 @@
           "numberEnd": 18,
           "instruction": "Listen to an academic talk.",
           "visual": "professor_lecture",
-          "audio": "audio/t5/t5_m2_talk_s1.mp3",
+          "audio": "t5/t5_m2_talk_s1.mp3",
           "questions": [
             {
               "number": 15,
